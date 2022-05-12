@@ -1,5 +1,1 @@
-$ dig  saintgits-college-of-computer-applications.000webhostapp.com +nostats +nocomments +nocmd
-    > ;saintgits-college-of-computer-applications.000webhostapp.com                     IN      A
-    > saintgits-college-of-computer-applications.000webhostapp.com              3592    IN      CNAME   NaveenPrinceThomas.github.io.
-    > NaveenPrinceThmas.github.io.      43192   IN      CNAME    GITHUB-PAGES-SERVER .
-    >  GITHUB-PAGES-SERVER .         22      IN      A       192.0.2.1
+saintgits-college-of-computer-applications.000webhostapp.com
